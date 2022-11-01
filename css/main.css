@@ -1,8 +1,5 @@
 /* ------------------------------------------------------------------------------
-	Template Name: Centrix
-  Description: Centrix - Personal CV/Resume HTML Template
-  Author: Paul
-  Author URI: http://themeforest.net/user/Paul_tf
+
 
 1. GLOBAL
 
@@ -3456,7 +3453,7 @@ a:hover, a:focus {
   height: 27px;
   margin-right: 15px;
   background-color: #000000;
-  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='27' height='27' viewBox='0 0 27 27' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cline x1='8.06791' y1='12.5683' x2='11.9251' y2='16.4255' stroke-width='2' stroke='%23ffffff'/%3e%3cline x1='20.9248' y1='8.06791' x2='11.9248' y2='17.0679' stroke-width='2' stroke='%23ffffff'/%3e%3c/svg%3e ");
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='27' height='27' viewBox='0 0 27 27' fill='none' xmlns='https://www.w3.org/2000/svg'%3e%3cline x1='8.06791' y1='12.5683' x2='11.9251' y2='16.4255' stroke-width='2' stroke='%23ffffff'/%3e%3cline x1='20.9248' y1='8.06791' x2='11.9248' y2='17.0679' stroke-width='2' stroke='%23ffffff'/%3e%3c/svg%3e ");
   border-radius: 50%;
 }
 
@@ -3474,7 +3471,7 @@ a:hover, a:focus {
 
 .card-price__list li.yellow::before {
   background-color: #fffe55;
-  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='27' height='27' viewBox='0 0 27 27' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cline x1='8.06791' y1='12.5683' x2='11.9251' y2='16.4255' stroke-width='2' stroke='%23000000'/%3e%3cline x1='20.9248' y1='8.06791' x2='11.9248' y2='17.0679' stroke-width='2' stroke='%23000000'/%3e%3c/svg%3e ");
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='27' height='27' viewBox='0 0 27 27' fill='none' xmlns='https://www.w3.org/2000/svg'%3e%3cline x1='8.06791' y1='12.5683' x2='11.9251' y2='16.4255' stroke-width='2' stroke='%23000000'/%3e%3cline x1='20.9248' y1='8.06791' x2='11.9248' y2='17.0679' stroke-width='2' stroke='%23000000'/%3e%3c/svg%3e ");
 }
 
 .card-price__btn {
@@ -3840,7 +3837,7 @@ a:hover, a:focus {
   right: 0;
   width: 25px;
   height: 25px;
-  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg viewBox='0 0 25 25' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='%23fff' d='M13.5 0v25M25 12.5H0'/%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg viewBox='0 0 25 25' fill='none' xmlns='https://www.w3.org/2000/svg'%3e%3cpath stroke='%23fff' d='M13.5 0v25M25 12.5H0'/%3e%3c/svg%3e");
   background-repeat: no-repeat;
   background-position: 50% 50%;
   -webkit-transform: translateY(-50%);
@@ -3854,7 +3851,7 @@ a:hover, a:focus {
 }
 
 .accordion__item-header--opened::before {
-  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg viewBox='0 0 25 2' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='%23fff' d='M25 .922H.073'/%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg viewBox='0 0 25 2' fill='none' xmlns='https://www.w3.org/2000/svg'%3e%3cpath stroke='%23fff' d='M25 .922H.073'/%3e%3c/svg%3e");
 }
 
 .accordion__item-title {
@@ -3971,11 +3968,11 @@ a:hover, a:focus {
 }
 
 .accordion--black .accordion__item-header::before {
-  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='18' height='10' viewBox='0 0 18 10' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cline y1='-0.5' x2='12.0148' y2='-0.5' transform='matrix(-0.687305 0.726368 -0.687306 -0.726368 17 0.000488281)' stroke='black'/%3e%3cline y1='-0.5' x2='12.0148' y2='-0.5' transform='matrix(-0.687306 -0.726368 0.687305 -0.726368 9.25732 8.72729)' stroke='black'/%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='18' height='10' viewBox='0 0 18 10' fill='none' xmlns='https://www.w3.org/2000/svg'%3e%3cline y1='-0.5' x2='12.0148' y2='-0.5' transform='matrix(-0.687305 0.726368 -0.687306 -0.726368 17 0.000488281)' stroke='black'/%3e%3cline y1='-0.5' x2='12.0148' y2='-0.5' transform='matrix(-0.687306 -0.726368 0.687305 -0.726368 9.25732 8.72729)' stroke='black'/%3e%3c/svg%3e");
 }
 
 .accordion--black .accordion__item-header--opened::before {
-  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='18' height='10' viewBox='0 0 18 10' fill='none' xmlns='http://www.w3.org/2000/svg'%3e%3cline y1='-0.5' x2='12.0148' y2='-0.5' transform='matrix(0.687306 -0.726368 0.687306 0.726368 1 9.72729)' stroke='black'/%3e%3cline y1='-0.5' x2='12.0148' y2='-0.5' transform='matrix(0.687306 0.726368 -0.687306 0.726368 8.74268 1)' stroke='black'/%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg width='18' height='10' viewBox='0 0 18 10' fill='none' xmlns='https://www.w3.org/2000/svg'%3e%3cline y1='-0.5' x2='12.0148' y2='-0.5' transform='matrix(0.687306 -0.726368 0.687306 0.726368 1 9.72729)' stroke='black'/%3e%3cline y1='-0.5' x2='12.0148' y2='-0.5' transform='matrix(0.687306 0.726368 -0.687306 0.726368 8.74268 1)' stroke='black'/%3e%3c/svg%3e");
 }
 
 .accordion--black .accordion__item-body {
@@ -4627,7 +4624,7 @@ a:hover, a:focus {
   height: 100vh;
   min-height: 480px;
   padding: 120px 0 45px;
-  background-color: #fffe55;
+  background-color: #ffffff;
 }
 
 @media (min-width: 992px) {
