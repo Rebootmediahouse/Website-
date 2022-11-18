@@ -3007,7 +3007,7 @@ a:hover, a:focus {
   padding: 16px;
       -ms-flex-direction: column;
           flex-direction: column;
-  background-color: #fffe55;
+  background-color: #FDB714;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
 }
@@ -6185,7 +6185,7 @@ a:hover, a:focus {
 
 .discuss-project__wrapper {
   padding: 40px 32px;
-  background-color: #fffe55;
+  background-color: #FDB714;
 }
 
 @media (min-width: 768px) {
@@ -10229,7 +10229,7 @@ a:hover, a:focus {
 /* 5.2 Footer */
 .footer {
   padding: 40px 0;
-  background-color: #fffe55;
+  background-color: #FDB714;
 }
 
 @media (min-width: 992px) {
