@@ -5292,7 +5292,7 @@ a:hover, a:focus {
   font-weight: 500;
   line-height: 1.2;
   color: #000000;
-  text-transform: uppercase;
+  text-transform: lowercase;
   -webkit-transition: color 0.3s ease;
   transition: color 0.3s ease;
 }
