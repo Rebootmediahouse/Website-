@@ -128,7 +128,7 @@ html {
     background-color: transparent;
   }
   html ::-webkit-scrollbar-thumb {
-    background-color: #fffe55;
+    background-color: #FDB714;
     border-radius: none;
   }
   html ::-webkit-scrollbar-corner {
@@ -227,7 +227,7 @@ a {
 }
 
 a:hover, a:focus {
-  text-decoration: none;
+  text-decoration: FDB714;
 }
 
 @-webkit-keyframes text-rotate {
@@ -743,6 +743,7 @@ a:hover, a:focus {
 }
 
 .arrow-link__icon {
+  fill: FDB714;
   display: block;
   width: 48px;
   -webkit-transition: -webkit-transform 0.3s ease;
@@ -795,7 +796,7 @@ a:hover, a:focus {
   cursor: pointer;
       -ms-flex-pack: center;
       -ms-flex-align: center;
-  background-color: #ffffff;
+  background-color: #FDB714;
   border: none;
   border-radius: 50%;
   -webkit-transition: opacity 0.3s ease;
@@ -862,7 +863,7 @@ a:hover, a:focus {
   height: 190px;
       -ms-flex-pack: center;
       -ms-flex-align: center;
-  background-color: #fffe55;
+  background-color: #FDB714;
   border: none;
   border-radius: 50%;
   -webkit-box-pack: center;
@@ -4904,7 +4905,7 @@ a:hover, a:focus {
 .features {
   padding: 80px 0;
   overflow: hidden;
-  background-color: #000000;
+  background-color: #FDB714;
 }
 
 @media (min-width: 576px) {
