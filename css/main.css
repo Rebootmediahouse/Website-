@@ -103,6 +103,9 @@ body {
   overflow: visible;
 }
 
+#speak{
+color: FDB714;
+}
 html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -4036,7 +4039,7 @@ a:hover, a:focus {
   font-size: 58px;
   font-weight: 500;
   line-height: 1;
-  color: #000000;
+  color: #FDB714;
 }
 
 .statistics__item-text {
@@ -4670,6 +4673,11 @@ a:hover, a:focus {
   -webkit-box-direction: normal;
   -webkit-box-align: end;
 }
+
+.modern-hero__span {
+  color: FDB714;
+}
+
 
 @media (min-width: 320px) {
   .modern-hero__title {
