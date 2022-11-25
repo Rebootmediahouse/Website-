@@ -3924,7 +3924,7 @@ a:hover, a:focus {
   right: 0;
   width: 25px;
   height: 25px;
-  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg viewBox='0 0 25 25' fill='none' xmlns='https://www.w3.org/2000/svg'%3e%3cpath stroke='%23fff' d='M13.5 0v25M25 12.5H0'/%3e%3c/svg%3e");
+  background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg viewBox='0 0 25 25' fill='black' xmlns='https://www.w3.org/2000/svg'%3e%3cpath stroke='%23fff' d='M13.5 0v25M25 12.5H0'/%3e%3c/svg%3e");
   background-repeat: no-repeat;
   background-position: 50% 50%;
   -webkit-transform: translateY(-50%);
