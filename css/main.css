@@ -4674,6 +4674,9 @@ a:hover, a:focus {
   -webkit-box-align: end;
 }
 
+#speak{
+color: #FDB714;
+}
 .modern-hero__span {
   color: FDB714;
 }
