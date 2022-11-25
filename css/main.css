@@ -102,7 +102,9 @@ html,
 body {
   overflow: visible;
 }
-
+.yello{
+  color: #ffc62d;
+}
 #speak{
 color: FDB714;
 }
@@ -817,7 +819,7 @@ a:hover, a:focus {
 .arrow-link__text {
   font-size: 14px;
   line-height: 1.2;
-  color: #000000;
+  color: #ffc62d;
   text-transform: uppercase;
   white-space: nowrap;
 }
