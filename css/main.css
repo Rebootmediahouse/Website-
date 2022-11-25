@@ -9935,6 +9935,7 @@ color: #FDB714;
 .header--leftward .header__logo {
   margin-right: 0;
   margin-left: 20px;
+  margin-bottom: -10;
 }
 
 .header--leftward .header__menu {
